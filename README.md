@@ -1,3 +1,3 @@
 # KickstarterHW
-Assignment 1
+Assignment 1 -
 This is my first assignment.
